@@ -1,0 +1,6 @@
+{
+  "name": "VoxAI voice Library",
+  "description": "A premium AI Voice and Text-to-Speech platform featuring real-time client synthesis, comprehensive voice library, user history, SEO system, and admin analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
